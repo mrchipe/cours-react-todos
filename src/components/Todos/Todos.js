@@ -21,7 +21,7 @@ class Todos extends Component {
             todos: [],
         }
 
-        this.index = 3
+        this.index = 0
     }
 
     componentDidMount() {
